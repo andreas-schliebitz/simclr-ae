@@ -2,7 +2,7 @@
 
 This repository contains the Python code for reproducing our experiments conducted as part of the paper
 
-> Improving Nonlinear Projection Heads using Pretrained Autoencoder Embeddings
+> [Improving Nonlinear Projection Heads using Pretrained Autoencoder Embeddings](https://arxiv.org/abs/2408.14514)
 
 by Andreas Schliebitz, Heiko Tapken and Martin Atzmueller.
 
